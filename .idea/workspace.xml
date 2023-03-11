@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22b0d5aa-f6eb-4004-8864-2bbd4b9d6078" name="Changes" comment="Deleted idea folder">
-      <change beforePath="$PROJECT_DIR$/api-catalog.yml" beforeDir="false" afterPath="$PROJECT_DIR$/api-catalog.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api-movie.yml" beforeDir="false" afterPath="$PROJECT_DIR$/api-movie.yml" afterDir="false" />
+    <list default="true" id="22b0d5aa-f6eb-4004-8864-2bbd4b9d6078" name="Changes" comment="Fixed yml syntax and indentation">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eurekaServer.yml" beforeDir="false" afterPath="$PROJECT_DIR$/eurekaServer.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,13 +79,21 @@
       <option name="project" value="LOCAL" />
       <updated>1678566344592</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Fixed yml syntax and indentation">
+      <created>1678574073741</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678574073741</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added central configurations" />
     <MESSAGE value="Renamed to original names" />
     <MESSAGE value="Deleted idea folder" />
-    <option name="LAST_COMMIT_MESSAGE" value="Deleted idea folder" />
+    <MESSAGE value="Fixed yml syntax and indentation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed yml syntax and indentation" />
   </component>
 </project>
