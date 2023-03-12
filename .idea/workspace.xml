@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22b0d5aa-f6eb-4004-8864-2bbd4b9d6078" name="Changes" comment="Fixed eurekaServer.yml">
+    <list default="true" id="22b0d5aa-f6eb-4004-8864-2bbd4b9d6078" name="Changes" comment="Added endpoints exposure">
+      <change afterPath="$PROJECT_DIR$/gateway.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -120,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678578223112</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Added endpoints exposure">
+      <created>1678630331377</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1678630331377</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -129,6 +137,7 @@
     <MESSAGE value="Deleted idea folder" />
     <MESSAGE value="Fixed yml syntax and indentation" />
     <MESSAGE value="Fixed eurekaServer.yml" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed eurekaServer.yml" />
+    <MESSAGE value="Added endpoints exposure" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added endpoints exposure" />
   </component>
 </project>
