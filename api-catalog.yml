@@ -8,6 +8,12 @@ spring:
 info:
   application:
     name: api-catalog
+    
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
 
 eureka:
   healthcheck:

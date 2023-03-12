@@ -22,6 +22,12 @@ info:
   application:
     name: api-movie
 
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+
 eureka:
   healthcheck:
     enabled: true
