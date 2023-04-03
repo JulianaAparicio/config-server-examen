@@ -4,6 +4,13 @@ server:
 spring:
   application:
     name: api-catalog
+  data:
+    mongodb:
+      username: usr-catalog-mongo
+      password: pwd-catalog-mongo
+      database: catalog-dev-mongo
+      port: 27017
+      host: localhost
 
 info:
   application:

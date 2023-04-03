@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22b0d5aa-f6eb-4004-8864-2bbd4b9d6078" name="Changes" comment="Added gateway config">
+    <list default="true" id="22b0d5aa-f6eb-4004-8864-2bbd4b9d6078" name="Changes" comment="Added api-serie application yml to ConfigServer">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-catalog.yml" beforeDir="false" afterPath="$PROJECT_DIR$/api-catalog.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-serie.yml" beforeDir="false" afterPath="$PROJECT_DIR$/api-serie.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,13 +28,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/July/Desktop/config-server-examen"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/July/Desktop/config-server-examen&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\July\Desktop\config-server-examen" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="config-server-examen" />
@@ -134,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678633862384</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Added api-serie application yml to ConfigServer">
+      <created>1680395648846</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1680395648846</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -145,6 +159,7 @@
     <MESSAGE value="Fixed eurekaServer.yml" />
     <MESSAGE value="Added endpoints exposure" />
     <MESSAGE value="Added gateway config" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added gateway config" />
+    <MESSAGE value="Added api-serie application yml to ConfigServer" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added api-serie application yml to ConfigServer" />
   </component>
 </project>
