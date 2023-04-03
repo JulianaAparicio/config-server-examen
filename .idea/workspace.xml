@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22b0d5aa-f6eb-4004-8864-2bbd4b9d6078" name="Changes" comment="Added zipkin configuration">
+    <list default="true" id="22b0d5aa-f6eb-4004-8864-2bbd4b9d6078" name="Changes" comment="Changed circuit breaker configuration">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/api-catalog.yml" beforeDir="false" afterPath="$PROJECT_DIR$/api-catalog.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-movie.yml" beforeDir="false" afterPath="$PROJECT_DIR$/api-movie.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,7 +169,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680484829834</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Changed circuit breaker configuration">
+      <created>1680561449067</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1680561449067</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -182,6 +190,7 @@
     <MESSAGE value="Added api-serie application yml to ConfigServer" />
     <MESSAGE value="Added mongodb configuration" />
     <MESSAGE value="Added zipkin configuration" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added zipkin configuration" />
+    <MESSAGE value="Changed circuit breaker configuration" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed circuit breaker configuration" />
   </component>
 </project>
