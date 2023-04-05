@@ -19,6 +19,11 @@ spring:
     hibernate:
       ddl-auto: update
     generate-ddl: true
+  rabbitmq:
+    username: guest
+    password: guest
+    host: localhost
+    port: 5672
 
 info:
   application:
