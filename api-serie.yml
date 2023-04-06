@@ -13,6 +13,11 @@ spring:
       database: serie-dev-mongo
       port: 27017
       host: localhost
+  rabbitmq:
+    username: guest
+    password: guest
+    host: localhost
+    port: 5672
 
 info:
   application:
