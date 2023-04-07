@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22b0d5aa-f6eb-4004-8864-2bbd4b9d6078" name="Changes" comment="Added rabbitMQ configuration">
+    <list default="true" id="22b0d5aa-f6eb-4004-8864-2bbd4b9d6078" name="Changes" comment="Added circuit breaker and retry configuration">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api-catalog.yml" beforeDir="false" afterPath="$PROJECT_DIR$/api-catalog.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-serie.yml" beforeDir="false" afterPath="$PROJECT_DIR$/api-serie.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -211,7 +210,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680747128130</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Added circuit breaker and retry configuration">
+      <created>1680881817589</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1680881817589</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -227,6 +233,7 @@
     <MESSAGE value="Added zipkin configuration" />
     <MESSAGE value="Changed circuit breaker configuration" />
     <MESSAGE value="Added rabbitMQ configuration" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added rabbitMQ configuration" />
+    <MESSAGE value="Added circuit breaker and retry configuration" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added circuit breaker and retry configuration" />
   </component>
 </project>
