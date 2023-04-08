@@ -6,6 +6,7 @@ spring:
     name: api-catalog
   zipkin:
     baseUrl: http://localhost:9411/
+    enabled: true
 #  data:
 #    mongodb:
 #      username: usr-catalog-mongo
