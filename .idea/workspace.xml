@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22b0d5aa-f6eb-4004-8864-2bbd4b9d6078" name="Changes" comment="Added api-movie and api-serie microservices to gateway configuration">
+    <list default="true" id="22b0d5aa-f6eb-4004-8864-2bbd4b9d6078" name="Changes" comment="Added enabled property">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-catalog.yml" beforeDir="false" afterPath="$PROJECT_DIR$/api-catalog.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-serie.yml" beforeDir="false" afterPath="$PROJECT_DIR$/api-serie.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +32,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/July/Desktop/config-server-examen"
+    "last_opened_file_path": "C:/Users/July/Desktop/Código del profesor por clase/clases-esp-backend-i-clase-9-rabbitmq"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -237,7 +239,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680903192768</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Added enabled property">
+      <created>1680994856045</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1680994856045</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -256,6 +265,7 @@
     <MESSAGE value="Added circuit breaker and retry configuration" />
     <MESSAGE value="Commented unused mongodb lines" />
     <MESSAGE value="Added api-movie and api-serie microservices to gateway configuration" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added api-movie and api-serie microservices to gateway configuration" />
+    <MESSAGE value="Added enabled property" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added enabled property" />
   </component>
 </project>
